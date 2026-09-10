@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata from this file."
+title: "Iron and oxygen stress are not one response"
+type: software
+authors:
+  - family-names: Salman
+    given-names: Zane
+    affiliation: "College of Natural Sciences, The University of Texas at Austin"
+version: 1.0.0
+date-released: 2026-09-10
+repository-code: "https://github.com/ZaneSalman/iron-oxygen-crossspecies"
+url: "https://github.com/ZaneSalman/iron-oxygen-crossspecies"
+license: MIT
+abstract: >-
+  A prespecified cross-species reanalysis of published transcriptomes in
+  Pseudomonas aeruginosa and Shigella flexneri examining whether iron and
+  oxygen limitation produce shared transcriptional responses.
+keywords:
+  - iron limitation
+  - oxygen limitation
+  - transcriptomics
+  - Pseudomonas aeruginosa
+  - Shigella flexneri
+  - cross-species analysis
