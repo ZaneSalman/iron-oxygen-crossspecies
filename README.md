@@ -1,5 +1,7 @@
 # Iron and oxygen stress are not one response
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22698569.svg)](https://doi.org/10.5281/zenodo.22698569)
+
 A prespecified cross-species reanalysis of published transcriptomes in
 *Pseudomonas aeruginosa* and *Shigella flexneri*.
 

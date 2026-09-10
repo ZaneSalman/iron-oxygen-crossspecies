@@ -8,6 +8,7 @@ authors:
     affiliation: "College of Natural Sciences, The University of Texas at Austin"
 version: 1.0.0
 date-released: 2026-09-10
+doi: 10.5281/zenodo.22698569
 repository-code: "https://github.com/ZaneSalman/iron-oxygen-crossspecies"
 url: "https://github.com/ZaneSalman/iron-oxygen-crossspecies"
 license: MIT
