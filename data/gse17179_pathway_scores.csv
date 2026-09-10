@@ -1,0 +1,22 @@
+pathway,contrast,genes_in_set,sig,up,down,median_logFC,enrich_p,direction
+Anaerobic respiration,anaerobic vs aerobic (PAO1),15,5,5,0,3.45,4.38e-04,induced
+Anaerobic respiration,anr mutant vs PAO1 (anaerobic),15,4,0,4,-3.05,3.18e-06,repressed
+Anaerobic respiration,dnr mutant vs PAO1 (anaerobic),15,4,0,4,-2.63,9.27e-05,repressed
+Central carbon and amino acid metabolism,anaerobic vs aerobic (PAO1),607,69,28,41,-1.24,4.87e-13,mixed
+Central carbon and amino acid metabolism,anr mutant vs PAO1 (anaerobic),607,16,0,16,-3.09,2.49e-06,repressed
+Central carbon and amino acid metabolism,dnr mutant vs PAO1 (anaerobic),607,18,13,5,1.3,1.27e-02,mixed
+Iron uptake and storage,anaerobic vs aerobic (PAO1),53,1,1,0,1.42,9.22e-01,induced
+Iron uptake and storage,anr mutant vs PAO1 (anaerobic),53,0,0,0,,1.00e+00,unresolved
+Iron uptake and storage,dnr mutant vs PAO1 (anaerobic),53,0,0,0,,1.00e+00,unresolved
+Motility,anaerobic vs aerobic (PAO1),130,11,8,3,1.17,3.99e-02,mixed
+Motility,anr mutant vs PAO1 (anaerobic),130,1,0,1,-2.41,6.19e-01,repressed
+Motility,dnr mutant vs PAO1 (anaerobic),130,5,5,0,1.11,6.96e-02,induced
+Oxidative stress response,anaerobic vs aerobic (PAO1),25,3,2,1,1.89,1.09e-01,mixed
+Oxidative stress response,anr mutant vs PAO1 (anaerobic),25,2,0,2,-1.71,1.41e-02,repressed
+Oxidative stress response,dnr mutant vs PAO1 (anaerobic),25,1,1,0,1.1,3.49e-01,induced
+Quorum sensing and biofilm,anaerobic vs aerobic (PAO1),45,1,0,1,-1.41,8.85e-01,repressed
+Quorum sensing and biofilm,anr mutant vs PAO1 (anaerobic),45,0,0,0,,1.00e+00,unresolved
+Quorum sensing and biofilm,dnr mutant vs PAO1 (anaerobic),45,0,0,0,,1.00e+00,unresolved
+Secretion and virulence,anaerobic vs aerobic (PAO1),147,5,1,4,-2.13,8.25e-01,repressed
+Secretion and virulence,anr mutant vs PAO1 (anaerobic),147,0,0,0,,1.00e+00,unresolved
+Secretion and virulence,dnr mutant vs PAO1 (anaerobic),147,2,2,0,1.26,7.19e-01,induced

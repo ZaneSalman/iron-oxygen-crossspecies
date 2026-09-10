@@ -1,0 +1,14 @@
+# source data — not redistributed, see data/README.md
+*.CEL
+*.CEL.gz
+*.tar
+*_RAW.tar
+*series_matrix*
+*.fastq
+*.fastq.gz
+
+# working
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/

@@ -1,0 +1,29 @@
+pathway,organism,perturbation,n,up,down,median_logFC,direction
+Iron uptake and storage,P. aeruginosa,iron,22,21,1,4.92,induced
+Iron uptake and storage,P. aeruginosa,oxygen,1,1,0,1.42,unresolved
+Iron uptake and storage,S. flexneri,iron,25,24,1,2.18,induced
+Iron uptake and storage,S. flexneri,oxygen,22,2,20,-3.0,repressed
+Anaerobic respiration,P. aeruginosa,iron,8,0,8,-3.91,repressed
+Anaerobic respiration,P. aeruginosa,oxygen,4,4,0,3.05,induced
+Anaerobic respiration,S. flexneri,iron,1,0,1,-0.88,unresolved
+Anaerobic respiration,S. flexneri,oxygen,47,45,2,4.2,induced
+Oxidative stress response,P. aeruginosa,iron,4,1,3,-2.19,repressed
+Oxidative stress response,P. aeruginosa,oxygen,3,2,1,1.89,mixed
+Oxidative stress response,S. flexneri,iron,4,3,1,1.1,induced
+Oxidative stress response,S. flexneri,oxygen,12,3,9,-2.77,repressed
+Central carbon and amino acid metabolism,P. aeruginosa,iron,58,10,48,-1.83,repressed
+Central carbon and amino acid metabolism,P. aeruginosa,oxygen,63,22,41,-1.44,mixed
+Central carbon and amino acid metabolism,S. flexneri,iron,32,12,20,-0.85,mixed
+Central carbon and amino acid metabolism,S. flexneri,oxygen,67,43,24,1.06,mixed
+Secretion and virulence,P. aeruginosa,iron,17,16,1,1.4,induced
+Secretion and virulence,P. aeruginosa,oxygen,5,1,4,-2.13,repressed
+Secretion and virulence,S. flexneri,iron,17,17,0,0.88,induced
+Secretion and virulence,S. flexneri,oxygen,0,0,0,,unresolved
+Motility,P. aeruginosa,iron,2,1,1,0.58,unresolved
+Motility,P. aeruginosa,oxygen,11,8,3,1.17,mixed
+Motility,S. flexneri,iron,0,0,0,,unresolved
+Motility,S. flexneri,oxygen,1,1,0,3.55,unresolved
+Quorum sensing and biofilm,P. aeruginosa,iron,4,3,1,3.99,induced
+Quorum sensing and biofilm,P. aeruginosa,oxygen,1,0,1,-1.41,unresolved
+Quorum sensing and biofilm,S. flexneri,iron,3,3,0,0.99,induced
+Quorum sensing and biofilm,S. flexneri,oxygen,0,0,0,,unresolved

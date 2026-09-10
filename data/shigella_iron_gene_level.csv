@@ -1,0 +1,93 @@
+pathway,gene_id,gene_name,annotation,log2FC,p_value,logFC_ironlim
+Anaerobic respiration,AAP18216.1,epd,D-erythrose 4-phosphate dehydrogenase,-1.7896273,1.763345e-14,1.7896273
+Anaerobic respiration,AAP17981.1,tyrA,chorismate mutase-T and prephenate dehydrogenase,-1.3890467,1.756445e-09,1.3890467
+Anaerobic respiration,AAP18811.1,yihU,putative dehydrogenase,-0.8853442,0.0002837826,0.8853442
+Anaerobic respiration,AAP17693.1,nuoC,NADH dehydrogenase I chain C%2C D,0.8079515,0.0003937343,-0.8079515
+Anaerobic respiration,AAP17692.1,nuoE,NADH dehydrogenase I chain E,0.8705575,0.0001385807,-0.8705575
+Anaerobic respiration,AAP17627.1,napD,hypothetical protein,0.8772916,0.0009139713,-0.8772916
+Anaerobic respiration,AAP17691.1,nuoF,NADH dehydrogenase I chain F,0.9152075,6.207967e-05,-0.9152075
+Anaerobic respiration,AAP17683.1,nuoN,NADH dehydrogenase I chain N,0.9463664,3.492757e-05,-0.9463664
+Anaerobic respiration,AAP17690.1,nuoG,NADH dehydrogenase I chain G,0.9539597,2.983119e-05,-0.9539597
+Anaerobic respiration,AAP17685.1,nuoL,NADH dehydrogenase I chain L,1.012825,9.634199e-06,-1.012825
+Anaerobic respiration,AAP17684.1,nuoM,NADH dehydrogenase I chain M,1.0365933,6.17841e-06,-1.0365933
+Anaerobic respiration,AAP17687.1,nuoJ,NADH dehydrogenase I chain J,1.0520289,4.473856e-06,-1.0520289
+Anaerobic respiration,AAP17688.1,nuoI,NADH dehydrogenase I chain I,1.0917408,1.96617e-06,-1.0917408
+Anaerobic respiration,AAP17689.1,nuoH,NADH dehydrogenase I chain H,1.0942046,1.822074e-06,-1.0942046
+Anaerobic respiration,AAP17686.1,nuoK,NADH dehydrogenase I chain K,1.1432596,6.813392e-07,-1.1432596
+Central carbon and amino acid metabolism,AAP17589.1,fruK,fructose-1-phosphate kinase,-1.8071132,1.081308e-14,1.8071132
+Central carbon and amino acid metabolism,AAP17451.1,hisC,histidinol-phosphate aminotransferase,-1.5541412,2.020876e-11,1.5541412
+Central carbon and amino acid metabolism,AAP17982.1,aroF,3-deoxy-D-arabinoheptulosonate-7-phosphate synthase (DAHP synthetase%2C tyrosine repressible),-1.5218774,4.922366e-11,1.5218774
+Central carbon and amino acid metabolism,AAP17453.1,hisH,glutamine amidotransferase subunit of heterodimer with HisF%2C imidazole glycerol phosphate synthase holoenzyme,-1.1771962,2.972364e-07,1.1771962
+Central carbon and amino acid metabolism,AAP17455.1,hisF,imidazole glycerol phosphate synthase subunit in heterodimer with HisH%2C imidazole glycerol phsphate synthase holoenzyme,-1.0233829,7.829944e-06,1.0233829
+Central carbon and amino acid metabolism,AAP17454.1,hisA,N-(5-phospho-L-ribosyl-formimino)-5-amino-1-(5- phosphoribosyl)-4-imidazolecarboxamide isomerase,-0.9626757,2.558717e-05,0.9626757
+Central carbon and amino acid metabolism,AAP18160.1,lysA,diaminopimelate decarboxylase,-0.9337775,4.414847e-05,0.9337775
+Central carbon and amino acid metabolism,AAP18215.1,pgk,phosphoglycerate kinase,-0.8635954,0.0001539029,0.8635954
+Central carbon and amino acid metabolism,AAP18706.1,thiC,thiamine biosynthesis protein%2C pyrimidine moiety,-0.8117831,0.0003685864,0.8117831
+Central carbon and amino acid metabolism,AAP18399.1,ygjG,probable ornithine aminotransferase,-0.8073248,0.0004881725,0.8073248
+Central carbon and amino acid metabolism,AAP19249.1,livM,high-affinity branched-chain amino acid transport protein%2C membrane component,0.8021463,0.0004372616,-0.8021463
+Central carbon and amino acid metabolism,AAP15951.1,adk,adenylate kinase,0.8050391,0.0004180909,-0.8050391
+Central carbon and amino acid metabolism,AAP18945.1,atpD,membrane-bound ATP synthase%2C F1 sector%2C beta-subunit,0.8156017,0.0003460636,-0.8156017
+Central carbon and amino acid metabolism,AAP19303.1,mrcA,peptidoglycan synthetase%2C penicillin-binding protein 1A,0.8172186,0.0003505522,-0.8172186
+Central carbon and amino acid metabolism,AAP15572.1,slpA,probable FKBX-type 16kD peptidyl-prolyl cis-trans isomerase (a rotamase),0.8283613,0.0002949138,-0.8283613
+Central carbon and amino acid metabolism,AAP18493.1,argG,argininosuccinate synthetase,0.8502266,0.0001958884,-0.8502266
+Central carbon and amino acid metabolism,AAP15877.1,queA,probable S-adenosylmethionine:tRNA ribosyltransferase-isomerase,0.8591111,0.0001697111,-0.8591111
+Central carbon and amino acid metabolism,AAP18088.1,cysC,adenosine 5-phosphosulfate kinase,0.9170516,6.139515e-05,-0.9170516
+Central carbon and amino acid metabolism,AAP17009.1,ppsA,phosphoenolpyruvate synthase,0.9638913,2.466059e-05,-0.9638913
+Central carbon and amino acid metabolism,AAP18736.1,argB,acetylglutamate kinase,1.0124477,1.023976e-05,-1.0124477
+Central carbon and amino acid metabolism,AAP15577.1,carB,carbamoyl-phosphate synthase large subunit,1.0205102,8.1825e-06,-1.0205102
+Central carbon and amino acid metabolism,AAP18735.1,argH,argininosuccinate lyase,1.024189,7.759526e-06,-1.024189
+Central carbon and amino acid metabolism,AAP17795.1,cysM,cysteine synthase B%2C O-acetylserine sulfhydrolase B,1.1660059,3.821167e-07,-1.1660059
+Central carbon and amino acid metabolism,AAP18911.1,ilvC,ketol-acid reductoisomerase,1.3580036,3.816379e-09,-1.3580036
+Central carbon and amino acid metabolism,AAP18910.1,ppiC,peptidyl-prolyl cis-trans isomerase C (rotamase C),1.4718373,2.076626e-10,-1.4718373
+Iron uptake and storage,AAP16019.1,fes,enterochelin esterase,-4.3967632,1.860886e-63,4.3967632
+Iron uptake and storage,AAP16018.1,fepA,ferrienterobactin receptor precursor,-4.3024176,1.090077e-61,4.3024176
+Iron uptake and storage,AAP16020.1,entF,ATP-dependent serine activating enzyme,-4.1248668,7.657258e-58,4.1248668
+Iron uptake and storage,AAP19030.1,iutA,putative ferric siderophore receptor,-2.8886927,1.495927e-32,2.8886927
+Iron uptake and storage,AAP19032.1,iucC,siderophore biosynthesis protein,-2.6721837,1.40808e-28,2.6721837
+Iron uptake and storage,AAP19031.1,iucD,lysine:N6-hydroxylase,-2.6274779,8.821011e-28,2.6274779
+Iron uptake and storage,AAP19034.1,iucA,siderophore biosynthesis protein,-2.5491305,2.151927e-26,2.5491305
+Iron uptake and storage,AAP19033.1,iucB,siderophore biosynthesis protein,-2.5321098,4.338923e-26,2.5321098
+Iron uptake and storage,AAP16017.1,entD,enterochelin synthetase%2C component D,-2.3089161,7.914168e-22,2.3089161
+Iron uptake and storage,AAP17274.1,sitA,Iron transport protein,-2.2845239,6.22694e-22,2.2845239
+Iron uptake and storage,AAP16025.1,fepD,ferric enterobactin (enterochelin) transport protein,-2.2786129,1.466355e-21,2.2786129
+Iron uptake and storage,AAP17277.1,sitD,Iron transport protein%2C inner membrane component,-2.2153756,8.37462e-21,2.2153756
+Iron uptake and storage,AAP17275.1,sitB,Iron transport protein%2C ATP-binding component,-2.1775527,3.263032e-20,2.1775527
+Iron uptake and storage,AAP16023.1,fepC,ATP-binding component of ferric enterobactin transport,-2.1465606,8.053084e-19,2.1465606
+Iron uptake and storage,AAP16024.1,fepG,ferric enterobactin transport protein,-2.1169029,1.804501e-18,2.1169029
+Iron uptake and storage,AAP17276.1,sitC,Iron transport protein,-2.0849641,9.145425e-19,2.0849641
+Iron uptake and storage,AAP19591.1,fhuF,hypothetical protein,-2.057021,2.496296e-18,2.057021
+Iron uptake and storage,AAP16027.1,fepB,ferric enterobactin (enterochelin) binding protein,-2.050381,3.570622e-18,2.050381
+Iron uptake and storage,AAP16738.1,adhE,CoA-linked acetaldehyde dehydrogenase and iron-dependent alcohol dehydrogenase%3B pyruvate-formate-lyase deactivase,-1.8851255,7.990372e-16,1.8851255
+Iron uptake and storage,AAP19359.1,bfr,bacterioferrin,-1.4818124,1.535724e-10,1.4818124
+Iron uptake and storage,AAP15686.1,fhuA,outer membrane protein receptor for ferrichrome%2C colicin M%2C and phages T1%2C T5%2C and phi80,-1.3531437,4.387845e-09,1.3531437
+Iron uptake and storage,AAP16028.1,entE,2%2C3-dihydroxybenzoate-AMP ligase,-1.2311619,1.609752e-07,1.2311619
+Iron uptake and storage,AAP19291.1,feoA,ferrous iron transport protein A,-0.8822116,0.0001151285,0.8822116
+Iron uptake and storage,AAP18340.1,exbD,enterochelin transporter (uptake),-0.8277293,0.0002884735,0.8277293
+Iron uptake and storage,AAP17332.1,ftn,cytoplasmic ferritin,1.4473897,4.413022e-10,-1.4473897
+Oxidative stress response,AAP18021.1,nrdH,glutaredoxin-like protein,-2.1712121,7.962306e-20,2.1712121
+Oxidative stress response,AAP17201.1,osmC,osmotically inducible protein,-1.2252464,9.819627e-08,1.2252464
+Oxidative stress response,AAP16579.1,grxB,glutaredoxin 2,-1.1846271,2.571836e-07,1.1846271
+Oxidative stress response,AAP19597.1,osmY,hyperosmotically inducible periplasmic protein,-1.1594364,4.657005e-07,1.1594364
+Oxidative stress response,AAP18635.1,soxR,redox-sensing activator of soxS,-1.0141553,1.214153e-05,1.0141553
+Oxidative stress response,AAP16273.1,dps,global regulator protein Dps,-0.9489491,3.372587e-05,0.9489491
+Oxidative stress response,AAP17152.1,sodB,superoxide dismutase,1.7949151,1.501563e-14,-1.7949151
+Quorum sensing and biofilm,AAP16541.1,csgD,probable csgAB operon transcriptional regulatory protein,-1.0680066,8.560947e-06,1.0680066
+Quorum sensing and biofilm,AAP16540.1,csgE,Curli production assembly/transport component CsgE precursor,-0.9860472,9.068488e-05,0.9860472
+Quorum sensing and biofilm,AAP16539.1,csgF,Curli production assembly/transport component CsgF precursor,-0.9327149,0.0004275575,0.9327149
+Secretion and virulence,YP_001449236.1,ospE2,OspE2,-1.424318,2.285934e-09,1.424318
+Secretion and virulence,AAP17259.1,ipaH_4,invasion plasmid antigen,-1.3849525,4.61664e-09,1.3849525
+Secretion and virulence,YP_001449237.1,ospE1,OspE1,-1.1102857,2.160506e-06,1.1102857
+Secretion and virulence,AAP17392.1,ipaH_5,invasion plasmid antigen,-1.0222542,1.853092e-05,1.0222542
+Secretion and virulence,NP_858359.2,ipaH9,invasion plasmid antigen%2C secreted by the Mxi-Spa secretion machinery,-0.9813927,1.83118e-05,0.9813927
+Secretion and virulence,NP_858136.1,ospB,OspB protein,-0.9339899,4.602051e-05,0.9339899
+Secretion and virulence,NP_858260.2,ipaC,IpaC%2C secreted by the Mxi-Spa secretion machinery%2C required for entry into epithelial cells,-0.9216337,5.418503e-05,0.9216337
+Secretion and virulence,NP_858258.1,ipaA,hypothetical protein,-0.9109932,6.586717e-05,0.9109932
+Secretion and virulence,NP_858270.1,mxiH,Mxi-Spa secretion machinery protein MxiH,-0.8753344,0.0001248055,0.8753344
+Secretion and virulence,NP_858259.1,ipaD,hypothetical protein,-0.8703382,0.0001360791,0.8703382
+Secretion and virulence,NP_858265.1,icsB,IcsB%2C invasion protein,-0.8447148,0.0002120752,0.8447148
+Secretion and virulence,NP_858261.1,ipaB,IpaB%2C secreted by the Mxi-Spa secretion machinery%2C required for entry into epithelial cells,-0.8433559,0.0002165468,0.8433559
+Secretion and virulence,NP_858274.2,mxiN,Mxi-Spa secretion machinery protein MxiN,-0.8430039,0.0002182087,0.8430039
+Secretion and virulence,NP_858271.1,mxiI,Mxi-Spa secretion machinery protein MxiI,-0.8167854,0.000339234,0.8167854
+Secretion and virulence,NP_858275.1,mxiL,Mxi-Spa secretion machinery protein MxiL,-0.8152345,0.0003493588,0.8152345
+Secretion and virulence,NP_858273.1,mxiK,Mxi-Spa secretion machinery protein MxiK,-0.8067827,0.0003999564,0.8067827
+Secretion and virulence,NP_858211.1,ipaH7,invasion plasmid antigen,-0.8013649,0.0004802425,0.8013649

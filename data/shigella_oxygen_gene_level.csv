@@ -1,0 +1,178 @@
+orf,gene,desc,cog,log2FC_anaer,log2FC_fnr,pathway
+SF5M90T_2223,napA,probable nitrate reductase 3,Energy production and conversion,7.4,-4.85,Anaerobic respiration
+SF5M90T_2975,hybA,hydrogenase-2 small subunit,Energy production and conversion,6.78,-2.34,Anaerobic respiration
+SF5M90T_1706,fdnG,formate dehydrogenase-N alpha subunit,Energy production and conversion,6.67,-5.67,Anaerobic respiration
+SF5M90T_2220,napB,cytochrome c-type protein,Energy production and conversion,6.39,-3.89,Anaerobic respiration
+SF5M90T_4218,frdB,"fumarate reductase, anaerobic, iron-sulfur protein subunit",Energy production and conversion,6.24,-2.08,Anaerobic respiration
+SF5M90T_2707,hycB,"small subunit of hydrogenase-3, iron- sulfur protein",Energy production and conversion,6.22,-2.96,Anaerobic respiration
+SF5M90T_2221,napH,ferredoxin-type protein: electron transfer,Energy production and conversion,6.19,-4.62,Anaerobic respiration
+SF5M90T_2976,,putative hydrogenase subunit,Energy production and conversion,5.97,-2.49,Anaerobic respiration
+SF5M90T_2720,hydN,electron transport protein,Energy production and conversion,5.87,-3.96,Anaerobic respiration
+SF5M90T_4018,fumB,"fumarate hydratase class I, anaerobic",Energy production and conversion,5.83,-3.65,Anaerobic respiration
+SF5M90T_4219,frdA,"fumarate reductase, anaerobic, flavoprotein subunit",Energy production and conversion,5.81,-2.34,Anaerobic respiration
+SF5M90T_2222,napG,ferredoxin-type protein: electron transfer,Energy production and conversion,5.45,-4.47,Anaerobic respiration
+SF5M90T_2219,napC,cytochrome c-type protein,Energy production and conversion,4.92,-4.09,Anaerobic respiration
+SF5M90T_2974,hybB,probable cytochrome Ni/Fe component of hydrogenase-2,Energy production and conversion,4.83,-1.92,Anaerobic respiration
+SF5M90T_3080,pflB,formate acetyltransferase 1,Energy production and conversion,4.79,-1.93,Anaerobic respiration
+SF5M90T_4217,frdC,"fumarate reductase, anaerobic, membrane anchor polypeptide",Energy production and conversion,4.67,-2.16,Anaerobic respiration
+SF5M90T_4216,frdD,"fumarate reductase, anaerobic, membrane anchor polypeptide",Energy production and conversion,4.54,,Anaerobic respiration
+SF5M90T_968,hyaA,hydrogenase-1 small subunit,Energy production and conversion,4.54,,Anaerobic respiration
+SF5M90T_567,citD,citrate lyase acyl carrier protein (gamma chain),Energy production and conversion,4.53,-3.3,Central carbon and amino acid metabolism
+SF5M90T_1229,adhE,CoA-linked acetaldehyde dehydrogenase and iron- dependent alcohol dehydrogenase,Energy production and conversion,4.41,,Anaerobic respiration
+SF5M90T_2973,hybC,"probable large subunit, hydrogenase-2",Energy production and conversion,4.36,-1.75,Anaerobic respiration
+SF5M90T_1705,fdnH,formate dehydrogenase-N beta subunit,Energy production and conversion,4.2,-4.23,Anaerobic respiration
+SF5M90T_970,hyaC,probable Ni/Fe-hydrogenase 1 b-type cytochrome subunit,Energy production and conversion,4.13,,Anaerobic respiration
+SF5M90T_1704,fdnI,formate dehydrogenase-N gamma subunit,Energy production and conversion,4.05,-3.54,Anaerobic respiration
+SF5M90T_602,appC,"probable third cytochrome oxidase, subunit I",Energy production and conversion,3.96,,Anaerobic respiration
+SF5M90T_4050,nrfB,cytochrome c nitrite reductase pentaheme subunit,Energy production and conversion,3.67,-3.28,Anaerobic respiration
+SF5M90T_565,citF,citrate lyase alpha chain,Energy production and conversion,3.31,-2.88,Central carbon and amino acid metabolism
+SF5M90T_969,hyaB,hydrogenase-1 large subunit,Energy production and conversion,3.31,,Anaerobic respiration
+SF5M90T_2254,glpA,"sn-glycerol-3-phosphate dehydrogenase (anaerobic), large subunit",Energy production and conversion,2.88,-1.09,Anaerobic respiration
+SF5M90T_2972,hybD,probable processing element for hydrogenase-2,Energy production and conversion,2.77,-1.96,Anaerobic respiration
+SF5M90T_2712,hycG,hydrogenase activity,Energy production and conversion,2.75,,Anaerobic respiration
+SF5M90T_1003,wrbA,NAD(P)H dehydrogenase (quinone),Energy production and conversion,2.6,2.44,Anaerobic respiration
+SF5M90T_4049,nrfC,formate-dependent nitrite reductase,Energy production and conversion,2.52,-3.31,Anaerobic respiration
+SF5M90T_1217,narG,"nitrate reductase 1, alpha subunit",Energy production and conversion,2.49,-2.63,Anaerobic respiration
+SF5M90T_3204,yhdH,putative dehydrogenase,Energy production and conversion,2.44,,Anaerobic respiration
+SF5M90T_2711,hycF,probable iron-sulfur protein of hydrogenase 3 (part of FHL complex),Energy production and conversion,2.36,,Anaerobic respiration
+SF5M90T_2708,hycC,membrane-spanning protein of hydrogenase 3,Energy production and conversion,2.3,-2.73,Anaerobic respiration
+SF5M90T_3877,yiaK,putative dehydrogenase,Energy production and conversion,1.93,1.22,Anaerobic respiration
+SF5M90T_2256,glpC,"sn-glycerol-3-phosphate dehydrogenase (anaerobic), K-small subunit",Energy production and conversion,1.92,,Anaerobic respiration
+SF5M90T_316,ykgE,putative dehydrogenase subunit,Energy production and conversion,1.81,1.26,Anaerobic respiration
+SF5M90T_2710,hycE,large subunit of hydrogenase 3 (part of FHL complex),Energy production and conversion,1.77,-1.44,Anaerobic respiration
+SF5M90T_3679,atpF,"membrane-bound ATP synthase, F0 sector, subunit b",Energy production and conversion,1.04,,Central carbon and amino acid metabolism
+SF5M90T_3680,atpE,"membrane-bound ATP synthase, F0 sector, subunit c",Energy production and conversion,1.04,,Central carbon and amino acid metabolism
+SF5M90T_602,cydA,"cytochrome d terminal oxidase, polypeptide subunit I",Energy production and conversion,0.93,2.14,Anaerobic respiration
+SF5M90T_3523,fdoH,"formate dehydrogenase-O, iron-sulfur subunit",Energy production and conversion,-0.98,2.65,Anaerobic respiration
+SF5M90T_614,gltA,citrate synthase,Energy production and conversion,-1.39,2.96,Central carbon and amino acid metabolism
+SF5M90T_106,aceF,pyruvate dehydrogenase (dihydrolipoyltransacetylase component),Energy production and conversion,-1.95,2.43,Anaerobic respiration
+SF5M90T_105,aceE,pyruvate dehydrogenase (decarboxylase component),Energy production and conversion,-2.14,2.25,Anaerobic respiration
+SF5M90T_610,sdhB,"succinate dehydrogenase, iron sulfur protein",Energy production and conversion,-2.31,3.61,Anaerobic respiration
+SF5M90T_611,sdhA,"succinate dehydrogenase, flavoprotein subunit",Energy production and conversion,-2.34,4.49,Anaerobic respiration
+SF5M90T_1151,icdA,"isocitrate dehydrogenase, specific for NADP+",Energy production and conversion,-2.35,1.73,Anaerobic respiration
+SF5M90T_1745,aldA,"aldehyde dehydrogenase, NAD-linked",Energy production and conversion,-2.47,,Anaerobic respiration
+SF5M90T_3946,udhA,soluble pyridine nucleotide transhydrogenase,Energy production and conversion,-2.69,2.16,Anaerobic respiration
+SF5M90T_612,sdhD,"succinate dehydrogenase, hydrophobic subunit",Energy production and conversion,-2.88,4.61,Anaerobic respiration
+SF5M90T_613,sdhC,"succinate dehydrogenase, cytochrome b556",Energy production and conversion,-3.15,4.54,Anaerobic respiration
+SF5M90T_322,betB,NAD+-dependent betaine aldehyde dehydrogenase,Energy production and conversion,-3.5,3.19,Anaerobic respiration
+SF5M90T_3356,glpD,sn-glycerol-3-phosphate dehydrogenase (aerobic),Energy production and conversion,-3.64,3.12,Anaerobic respiration
+SF5M90T_566,citE,citrate lyase beta chain (acyl lyase subunit),Carbohydrate transport and metabolism,4.69,-3.43,Central carbon and amino acid metabolism
+SF5M90T_991,torT,TMAO reductase system periplasmic protein,Carbohydrate transport and metabolism,2.89,,Anaerobic respiration
+SF5M90T_2096,,fructose-bisphosphate aldolase,Carbohydrate transport and metabolism,2.02,2.08,Central carbon and amino acid metabolism
+SF5M90T_2887,rpiA,"ribosephosphate isomerase, constitutive",Carbohydrate transport and metabolism,1.84,,Central carbon and amino acid metabolism
+SF5M90T_1403,gapA,glyceraldehyde-3-phosphate dehydrogenase A,Carbohydrate transport and metabolism,1.83,,Anaerobic respiration
+SF5M90T_2897,fba,"fructose-bisphosphate aldolase, class II",Carbohydrate transport and metabolism,1.56,,Central carbon and amino acid metabolism
+SF5M90T_4098,pgi,glucosephosphate isomerase,Carbohydrate transport and metabolism,1.53,,Central carbon and amino acid metabolism
+SF5M90T_3496,tpiA,triosephosphate isomerase,Carbohydrate transport and metabolism,1.45,,Central carbon and amino acid metabolism
+SF5M90T_2808,fucI,L-fucose isomerase,Carbohydrate transport and metabolism,1.41,,Central carbon and amino acid metabolism
+SF5M90T_8,talB,transaldolase B,Carbohydrate transport and metabolism,1.1,,Central carbon and amino acid metabolism
+SF5M90T_1587,manA,mannose-6-phosphate isomerase,Carbohydrate transport and metabolism,1.04,,Central carbon and amino acid metabolism
+SF5M90T_2033,gnd,gluconate-6-phosphate dehydrogenase,Carbohydrate transport and metabolism,1.01,,Anaerobic respiration
+SF5M90T_1805,eda,keto-hydroxyglutarate-aldolase/keto-deoxy-phosp hogluconate aldolase,Carbohydrate transport and metabolism,0.97,,Central carbon and amino acid metabolism
+SF5M90T_1044,ymdD,glucans biosynthesis protein C,Carbohydrate transport and metabolism,-1.35,,Central carbon and amino acid metabolism
+SF5M90T_115,gcd,glucose dehydrogenase,Carbohydrate transport and metabolism,-4.17,2.96,Anaerobic respiration
+SF5M90T_4023,adiA,biodegradative arginine decarboxylase,Aminoacid transport and metabolism,3.19,-1.15,Central carbon and amino acid metabolism
+SF5M90T_4025,yjdE,"putative amino acid/amine transport protein, cryptic",Aminoacid transport and metabolism,3.11,-1.27,Central carbon and amino acid metabolism
+SF5M90T_3082,tdcC,"anaerobically inducible L-threonine, L-serine permease",Aminoacid transport and metabolism,3.01,,Anaerobic respiration
+SF5M90T_2403,cysK,cysteine synthase A,Aminoacid transport and metabolism,3.0,-1.15,Central carbon and amino acid metabolism
+SF5M90T_2255,glpB,"sn-glycerol-3-phosphate dehydrogenase (anaerobic), membrane anchor subunit",Aminoacid transport and metabolism,2.43,-2.51,Anaerobic respiration
+SF5M90T_1689,gadB,glutamate decarboxylase isozyme,Aminoacid transport and metabolism,2.27,5.19,Central carbon and amino acid metabolism
+SF5M90T_2823,argA,N-acetylglutamate synthase,Aminoacid transport and metabolism,1.94,,Central carbon and amino acid metabolism
+SF5M90T_1910,fliY,putative periplasmic binding transport protein,Aminoacid transport and metabolism,1.8,,Motility
+SF5M90T_2967,gsp,glutathionylspermidine synthetase/amidase,Aminoacid transport and metabolism,1.16,,Central carbon and amino acid metabolism
+SF5M90T_2877,gcvP,glycine decarboxylase,Aminoacid transport and metabolism,0.9,2.13,Central carbon and amino acid metabolism
+SF5M90T_3687,asnA,asparagine synthetase A,Aminoacid transport and metabolism,-1.23,,Central carbon and amino acid metabolism
+SF5M90T_111,speD,S-adenosylmethionine decarboxylase,Aminoacid transport and metabolism,-1.34,,Central carbon and amino acid metabolism
+SF5M90T_112,speE,spermidine synthase,Aminoacid transport and metabolism,-1.44,,Central carbon and amino acid metabolism
+SF5M90T_1286,,putative glutamine synthetase,Aminoacid transport and metabolism,-1.49,,Central carbon and amino acid metabolism
+SF5M90T_1253,trpE,anthranilate synthase component I,Aminoacid transport and metabolism,-1.57,,Central carbon and amino acid metabolism
+SF5M90T_3626,yifK,putative amino acid/amine transport protein,Aminoacid transport and metabolism,-1.94,,Central carbon and amino acid metabolism
+SF5M90T_2843,lysA,diaminopimelate decarboxylase,Aminoacid transport and metabolism,-2.11,2.44,Central carbon and amino acid metabolism
+SF5M90T_321,betA,choline dehydrogenase,Aminoacid transport and metabolism,-2.76,2.87,Anaerobic respiration
+SF5M90T_4161,nrdD,anaerobic ribonucleoside-triphosphate reductase,Nucleotide transport and metabolism,4.18,-2.74,Anaerobic respiration
+SF5M90T_4321,deoC,2-deoxyribose-5-phosphate aldolase,Nucleotide transport and metabolism,2.4,,Central carbon and amino acid metabolism
+SF5M90T_674,ybeK,putative tRNA synthetase,Nucleotide transport and metabolism,1.6,,Central carbon and amino acid metabolism
+SF5M90T_2456,purC,phosphoribosylaminoimidazole-succinocarboxamidesynthetase,Nucleotide transport and metabolism,1.35,,Central carbon and amino acid metabolism
+SF5M90T_1566,bioD,ATP-dependent dethiobiotin synthetase,Coenzyme transport and metabolism,4.42,-3.78,Central carbon and amino acid metabolism
+SF5M90T_2274,menB,dihydroxynaphtoic acid synthetase,Coenzyme transport and metabolism,2.63,-1.75,Central carbon and amino acid metabolism
+SF5M90T_2687,,phenylacrylic acid decarboxylase-like protein,Coenzyme transport and metabolism,1.83,,Central carbon and amino acid metabolism
+SF5M90T_2276,menD,2-oxoglutarate decarboxylase,Coenzyme transport and metabolism,1.76,-1.63,Central carbon and amino acid metabolism
+SF5M90T_2273,menC,o-succinylbenzoate synthase,Coenzyme transport and metabolism,1.76,-1.72,Central carbon and amino acid metabolism
+SF5M90T_761,moaC,"molybdopterin biosynthesis, protein C",Coenzyme transport and metabolism,1.14,-0.98,Central carbon and amino acid metabolism
+SF5M90T_3142,ispB,octaprenyl diphosphate synthase,Coenzyme transport and metabolism,1.06,,Central carbon and amino acid metabolism
+SF5M90T_3011,ribB,"3,4 dihydroxy-2-butanone-4-phosphate synthase",Coenzyme transport and metabolism,-1.1,,Central carbon and amino acid metabolism
+SF5M90T_2224,napD,assembly protein for periplasmic nitrate reductase,Inorganic ion transport and metabolism,6.38,-4.52,Anaerobic respiration
+SF5M90T_3298,nirC,Nitrite transporter,Inorganic ion transport and metabolism,4.24,-4.86,Anaerobic respiration
+SF5M90T_4051,nrfA,cytochrome c552 precursor,Inorganic ion transport and metabolism,4.04,-3.68,Anaerobic respiration
+SF5M90T_1895,ftn,Ferritin 1,Inorganic ion transport and metabolism,3.96,,Iron uptake and storage
+SF5M90T_1636,sodB,superoxide dismutase,Inorganic ion transport and metabolism,2.52,2.13,Oxidative stress response
+SF5M90T_791,dps,"global regulator, starvation conditions",Inorganic ion transport and metabolism,2.05,1.98,Oxidative stress response
+SF5M90T_3924,katG,catalase; hydroperoxidase HPI(I),Inorganic ion transport and metabolism,1.95,,Oxidative stress response
+SF5M90T_1186,,putative iron compound ABC transporter permease,Inorganic ion transport and metabolism,1.69,,Iron uptake and storage
+SF5M90T_1185,,iron ABC transporter ATP-binding protein,Inorganic ion transport and metabolism,1.52,,Iron uptake and storage
+SF5M90T_2420,yfeX,deferrochelatase/peroxidase,Inorganic ion transport and metabolism,1.02,-0.92,Oxidative stress response
+SF5M90T_3769,shiF,putative membrane transport protein,Inorganic ion transport and metabolism,-2.16,,Secretion and virulence
+SF5M90T_3764,iutA,putative ferric siderophore receptor,Inorganic ion transport and metabolism,-2.25,,Iron uptake and storage
+SF5M90T_1660,sufE,cysteine desulfuration protein,Inorganic ion transport and metabolism,-2.39,1.42,Iron uptake and storage
+SF5M90T_138,fhuB,"hydroxamate-dependent iron uptake, cytoplasmic membrane component",Inorganic ion transport and metabolism,-2.43,,Iron uptake and storage
+SF5M90T_1102,fhuE,outer membrane receptor for ferric iron uptake,Inorganic ion transport and metabolism,-2.46,,Iron uptake and storage
+SF5M90T_537,fepB,ferrienterobactin-binding periplasmic protein precursor,Inorganic ion transport and metabolism,-2.8,,Iron uptake and storage
+SF5M90T_3765,iucD,lysine:N6-hydroxylase,Inorganic ion transport and metabolism,-2.96,,Iron uptake and storage
+SF5M90T_135,fhuA,outer membrane protein receptor for ferrichrome,Inorganic ion transport and metabolism,-3.0,,Iron uptake and storage
+SF5M90T_1661,sufS,cysteine desulfurase,Inorganic ion transport and metabolism,-3.15,2.52,Iron uptake and storage
+SF5M90T_1345,sitD,"iron transport protein, inner membrane component",Inorganic ion transport and metabolism,-3.27,,Iron uptake and storage
+SF5M90T_3766,iucC,siderophore biosynthesis protein,Inorganic ion transport and metabolism,-3.47,,Iron uptake and storage
+SF5M90T_4306,fhuF,ferric hydroximate transport ferric iron reductase,Inorganic ion transport and metabolism,-3.61,,Iron uptake and storage
+SF5M90T_534,fepG,ferric enterobactin transport protein,Inorganic ion transport and metabolism,-3.9,,Iron uptake and storage
+SF5M90T_3768,iucA,siderophore biosynthesis protein,Inorganic ion transport and metabolism,-4.06,,Iron uptake and storage
+SF5M90T_533,fepC,ATP-binding component of ferric enterobactin transport,Inorganic ion transport and metabolism,-4.1,,Iron uptake and storage
+SF5M90T_1346,sitC,Iron transport protein,Inorganic ion transport and metabolism,-4.21,,Iron uptake and storage
+SF5M90T_3767,iucB,siderophore biosynthesis protein,Inorganic ion transport and metabolism,-4.23,,Iron uptake and storage
+SF5M90T_1347,sitB,"iron transport protein, ATP-binding component",Inorganic ion transport and metabolism,-4.38,,Iron uptake and storage
+SF5M90T_1348,sitA,"iron transport protein, periplasmic-binding protein",Inorganic ion transport and metabolism,-4.87,,Iron uptake and storage
+SF5M90T_3508,sodA,"superoxide dismutase, manganese",Inorganic ion transport and metabolism,-5.83,1.22,Oxidative stress response
+SF5M90T_529,entF,enterobactin synthetase component F,"Secondary metabolites biosynthesis, transport and catabolism",-1.95,,Iron uptake and storage
+SF5M90T_3901,gadA,glutamate decarboxylase isozyme,Defense mechanisms,2.03,5.14,Central carbon and amino acid metabolism
+SF5M90T_3781,shiA,virulence factor,Defense mechanisms,1.3,,Secretion and virulence
+SF5M90T_814,bssR,biofilm formation regulatory protein,Signal transduction mechanisms,3.76,-2.0,Quorum sensing and biofilm
+SF5M90T_1779,fnr,fumarate and nitrate reduction regulatory protein,Signal transduction mechanisms,-1.36,-3.51,Anaerobic respiration
+SF5M90T_1641,cfa,cyclopropane fatty acyl phospholipid synthase,Cell wall/membrane/envelope biogenesis,1.4,,Central carbon and amino acid metabolism
+SF5M90T_1241,tonB,transport protein,Cell wall/membrane/envelope biogenesis,-1.72,,Iron uptake and storage
+SF5M90T_1938,fliQ,flagellar biosynthetic protein,Cell motility,3.55,,Motility
+SF5M90T_2982,exbD,biopolymer transport,"Intracellular trafficking, secretion and vesicular transport",-2.57,-1.15,Iron uptake and storage
+SF5M90T_2983,exbB,biopolymer transport,"Intracellular trafficking, secretion and vesicular transport",-3.01,,Iron uptake and storage
+SF5M90T_2704,hypB,hydrogenase nickel incorporation protein,"Posttranslational modification, protein turnover, chaperones",5.58,-3.05,Anaerobic respiration
+SF5M90T_2703,hypC,hydrogenase assembly chaperone,"Posttranslational modification, protein turnover, chaperones",5.08,-3.16,Anaerobic respiration
+SF5M90T_972,hyaE,processing of HyaA and HyaB proteins,"Posttranslational modification, protein turnover, chaperones",4.68,,Anaerobic respiration
+SF5M90T_2702,hypD,hydrogenase isoenzyme,"Posttranslational modification, protein turnover, chaperones",4.18,-2.96,Anaerobic respiration
+SF5M90T_2701,hypE,hydrogenase maturation protein,"Posttranslational modification, protein turnover, chaperones",3.95,-2.14,Anaerobic respiration
+SF5M90T_4162,nrdG,anaerobic ribonucleotide reductase activating protein,"Posttranslational modification, protein turnover, chaperones",3.7,-2.81,Anaerobic respiration
+SF5M90T_2971,hybE,hydrogenase 2-specific chaperone,"Posttranslational modification, protein turnover, chaperones",3.24,-1.82,Anaerobic respiration
+SF5M90T_893,pflA,pyruvate formate lyase activating enzyme 1,"Posttranslational modification, protein turnover, chaperones",2.89,,Anaerobic respiration
+SF5M90T_3279,slyD,FKBP-type peptidyl-prolyl cis-trans isomerase,"Posttranslational modification, protein turnover, chaperones",1.31,,Central carbon and amino acid metabolism
+SF5M90T_462,ybbN,putative thioredoxin-like protein,"Posttranslational modification, protein turnover, chaperones",0.9,,Oxidative stress response
+SF5M90T_1314,tpx,thiol peroxidase,"Posttranslational modification, protein turnover, chaperones",-1.43,2.29,Oxidative stress response
+SF5M90T_2577,trxC,putative thioredoxin-like protein,"Posttranslational modification, protein turnover, chaperones",-2.09,1.8,Oxidative stress response
+SF5M90T_1665,sufA,iron-sulfur cluster assembly scaffold protein,"Posttranslational modification, protein turnover, chaperones",-3.15,2.24,Iron uptake and storage
+SF5M90T_1663,sufC,cysteine desulfurase ATPase component,"Posttranslational modification, protein turnover, chaperones",-3.26,2.73,Iron uptake and storage
+SF5M90T_1662,sufD,cysteine desulfurase activator complex subunit,"Posttranslational modification, protein turnover, chaperones",-3.47,3.01,Iron uptake and storage
+SF5M90T_1664,sufB,cysteine desulfurase activator complex subunit,"Posttranslational modification, protein turnover, chaperones",-3.68,3.0,Iron uptake and storage
+SF5M90T_2392,gltX,"glutamate tRNA synthetase, catalytic subunit","Translation, ribosomal structure and biogenesis",1.65,,Central carbon and amino acid metabolism
+SF5M90T_650,glnS,glutamine tRNA synthetase,"Translation, ribosomal structure and biogenesis",1.08,,Central carbon and amino acid metabolism
+SF5M90T_3893,glyQ,"glycine tRNA synthetase, alpha subunit","Translation, ribosomal structure and biogenesis",1.06,,Central carbon and amino acid metabolism
+SF5M90T_4220,yjeA,putative lysyl-tRNA synthetase,"Translation, ribosomal structure and biogenesis",0.95,-1.75,Central carbon and amino acid metabolism
+SF5M90T_3894,glyS,"glycine tRNA synthetase, beta subunit","Translation, ribosomal structure and biogenesis",0.81,,Central carbon and amino acid metabolism
+SF5M90T_2706,hycA,transcriptional repression of hyc and hyp operons,Transcription,6.63,-4.36,Anaerobic respiration
+SF5M90T_2297,lrhA,"NADH dehydrogenase transcriptional regulator, LysR family",Transcription,2.02,,Anaerobic respiration
+SF5M90T_104,pdhR,transcriptional regulator for pyruvate dehydrogenase complex,Transcription,-1.69,1.82,Anaerobic respiration
+SF5M90T_4017,dcuB,anaerobic dicarboxylate transport,General function prediction only,6.45,-4.09,Anaerobic respiration
+SF5M90T_2705,hypA,probable hydrogenase nickel incorporation protein,General function prediction only,4.38,-2.62,Anaerobic respiration
+SF5M90T_4200,dcuA,anaerobic dicarboxylate transport,General function prediction only,3.41,-1.85,Anaerobic respiration
+SF5M90T_2970,hybF,probable hydrogenase nickel incorporation protein,General function prediction only,3.2,-2.32,Anaerobic respiration
+SF5M90T_2435,,putative amino acid antiporter,General function prediction only,2.03,1.9,Central carbon and amino acid metabolism
+SF5M90T_3651,ilvM,acetolactate synthase 2 regulatory subunit,General function prediction only,0.99,,Central carbon and amino acid metabolism
+SF5M90T_4042,fdhF,pseudogene,Function unknown,4.45,-2.87,Anaerobic respiration
+SF5M90T_1156,ymgG,conserved hypothetical protein,Function unknown,2.9,,Quorum sensing and biofilm
+SF5M90T_1869,flhA,pseudogene,Function unknown,2.16,,Motility
+SF5M90T_879,dmsA,pseudogene,Function unknown,2.04,-2.66,Anaerobic respiration
+SF5M90T_2448,narQ,pseudogene,Function unknown,1.64,,Anaerobic respiration

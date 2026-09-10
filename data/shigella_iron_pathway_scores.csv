@@ -1,0 +1,7 @@
+pathway,sig_genes,up,down,median_logFC,max_abs_logFC,direction
+Anaerobic respiration,15,3,12,-0.95,1.79,repressed
+Central carbon and amino acid metabolism,25,10,15,-0.82,1.81,mixed
+Iron uptake and storage,25,24,1,2.18,4.4,induced
+Oxidative stress response,7,6,1,1.16,2.17,induced
+Quorum sensing and biofilm,3,3,0,0.99,1.07,induced
+Secretion and virulence,17,17,0,0.88,1.42,induced

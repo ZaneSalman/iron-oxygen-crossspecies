@@ -1,0 +1,43 @@
+organism,pathway,locus,symbol,description
+P. aeruginosa,Iron uptake and storage,PA2400,pvdJ,probable non-ribosomal peptide synthetase 
+P. aeruginosa,Iron uptake and storage,PA2394,pvdN,probable aminotransferase 
+P. aeruginosa,Iron uptake and storage,PA2395,pvdO,hypothetical protein 
+P. aeruginosa,Iron uptake and storage,PA2424,pvdL,probable non-ribosomal peptide synthetase 
+P. aeruginosa,Iron uptake and storage,PA2413,pvdH,probable class III aminotransferase 
+P. aeruginosa,Iron uptake and storage,PA2392,pvdP,hypothetical protein 
+P. aeruginosa,Iron uptake and storage,PA2425,pvdG,probable thioesterase 
+P. aeruginosa,Iron uptake and storage,PA3901,fecA,Fe(III) dicitrate transport protein FecA 
+P. aeruginosa,Iron uptake and storage,PA5292,pchP,hypothetical protein 
+P. aeruginosa,Iron uptake and storage,PA4688,hitB,iron (III)-transport system permease HitB 
+P. aeruginosa,Iron uptake and storage,PA0693,exbB2,transport protein ExbB2 
+P. aeruginosa,Iron uptake and storage,PA0199,exbD1,transport protein ExbD 
+P. aeruginosa,Iron uptake and storage,PA0694,exbD2,transport protein ExbD 
+P. aeruginosa,Iron uptake and storage,PA0198,exbB1,transport protein ExbB 
+P. aeruginosa,Oxidative stress response,PA2850,ohr,organic hydroperoxide resistance protein 
+P. aeruginosa,Oxidative stress response,PA5018,msrA,peptide methionine sulfoxide reductase 
+P. aeruginosa,Anaerobic respiration,PA3877,narK1,nitrite extrusion protein 1 
+P. aeruginosa,Anaerobic respiration,PA3876,narK2,nitrite extrusion protein 2 
+P. aeruginosa,Quorum sensing and biofilm,PA2239,pslI,probable transferase 
+P. aeruginosa,Quorum sensing and biofilm,PA2238,pslH,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA3064,pelA,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA4217,phzS,probable FAD-dependent monooxygenase 
+P. aeruginosa,Quorum sensing and biofilm,PA2244,pslN,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA2236,pslF,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA3061,pelD,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA2240,pslJ,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA2234,pslD,probable exopolysaccharide transporter 
+P. aeruginosa,Quorum sensing and biofilm,PA2237,pslG,probable glycosyl hydrolase 
+P. aeruginosa,Quorum sensing and biofilm,PA3060,pelE,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA5483,algB,two-component response regulator AlgB 
+P. aeruginosa,Quorum sensing and biofilm,PA1019,mucK,"cis,cis-muconate transporter MucK "
+P. aeruginosa,Quorum sensing and biofilm,PA3059,pelF,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA2235,pslE,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA2241,pslK,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA1130,rhlC,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA0763,mucA,anti-sigma factor MucA 
+P. aeruginosa,Quorum sensing and biofilm,PA3062,pelC,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA0762,algU,sigma factor AlgU 
+P. aeruginosa,Quorum sensing and biofilm,PA3387,rhlG,beta-ketoacyl reductase 
+P. aeruginosa,Quorum sensing and biofilm,PA3058,pelG,hypothetical protein 
+P. aeruginosa,Quorum sensing and biofilm,PA2233,pslC,probable glycosyl transferase 
+P. aeruginosa,Quorum sensing and biofilm,PA2243,pslM,hypothetical protein 

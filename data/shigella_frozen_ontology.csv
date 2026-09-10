@@ -1,0 +1,93 @@
+pathway,gene_id,gene_name,annotation
+Anaerobic respiration,AAP18216.1,epd,D-erythrose 4-phosphate dehydrogenase
+Anaerobic respiration,AAP17627.1,napD,hypothetical protein
+Anaerobic respiration,AAP17693.1,nuoC,NADH dehydrogenase I chain C%2C D
+Anaerobic respiration,AAP17692.1,nuoE,NADH dehydrogenase I chain E
+Anaerobic respiration,AAP17691.1,nuoF,NADH dehydrogenase I chain F
+Anaerobic respiration,AAP17690.1,nuoG,NADH dehydrogenase I chain G
+Anaerobic respiration,AAP17689.1,nuoH,NADH dehydrogenase I chain H
+Anaerobic respiration,AAP17688.1,nuoI,NADH dehydrogenase I chain I
+Anaerobic respiration,AAP17687.1,nuoJ,NADH dehydrogenase I chain J
+Anaerobic respiration,AAP17686.1,nuoK,NADH dehydrogenase I chain K
+Anaerobic respiration,AAP17685.1,nuoL,NADH dehydrogenase I chain L
+Anaerobic respiration,AAP17684.1,nuoM,NADH dehydrogenase I chain M
+Anaerobic respiration,AAP17683.1,nuoN,NADH dehydrogenase I chain N
+Anaerobic respiration,AAP17981.1,tyrA,chorismate mutase-T and prephenate dehydrogenase
+Anaerobic respiration,AAP18811.1,yihU,putative dehydrogenase
+Central carbon and amino acid metabolism,AAP15951.1,adk,adenylate kinase
+Central carbon and amino acid metabolism,AAP18736.1,argB,acetylglutamate kinase
+Central carbon and amino acid metabolism,AAP18493.1,argG,argininosuccinate synthetase
+Central carbon and amino acid metabolism,AAP18735.1,argH,argininosuccinate lyase
+Central carbon and amino acid metabolism,AAP17982.1,aroF,3-deoxy-D-arabinoheptulosonate-7-phosphate synthase (DAHP synthetase%2C tyrosine repressible)
+Central carbon and amino acid metabolism,AAP18945.1,atpD,membrane-bound ATP synthase%2C F1 sector%2C beta-subunit
+Central carbon and amino acid metabolism,AAP15577.1,carB,carbamoyl-phosphate synthase large subunit
+Central carbon and amino acid metabolism,AAP18088.1,cysC,adenosine 5-phosphosulfate kinase
+Central carbon and amino acid metabolism,AAP17795.1,cysM,cysteine synthase B%2C O-acetylserine sulfhydrolase B
+Central carbon and amino acid metabolism,AAP17589.1,fruK,fructose-1-phosphate kinase
+Central carbon and amino acid metabolism,AAP17454.1,hisA,N-(5-phospho-L-ribosyl-formimino)-5-amino-1-(5- phosphoribosyl)-4-imidazolecarboxamide isomerase
+Central carbon and amino acid metabolism,AAP17451.1,hisC,histidinol-phosphate aminotransferase
+Central carbon and amino acid metabolism,AAP17455.1,hisF,imidazole glycerol phosphate synthase subunit in heterodimer with HisH%2C imidazole glycerol phsphate synthase holoenzyme
+Central carbon and amino acid metabolism,AAP17453.1,hisH,glutamine amidotransferase subunit of heterodimer with HisF%2C imidazole glycerol phosphate synthase holoenzyme
+Central carbon and amino acid metabolism,AAP18911.1,ilvC,ketol-acid reductoisomerase
+Central carbon and amino acid metabolism,AAP19249.1,livM,high-affinity branched-chain amino acid transport protein%2C membrane component
+Central carbon and amino acid metabolism,AAP18160.1,lysA,diaminopimelate decarboxylase
+Central carbon and amino acid metabolism,AAP19303.1,mrcA,peptidoglycan synthetase%2C penicillin-binding protein 1A
+Central carbon and amino acid metabolism,AAP18215.1,pgk,phosphoglycerate kinase
+Central carbon and amino acid metabolism,AAP18910.1,ppiC,peptidyl-prolyl cis-trans isomerase C (rotamase C)
+Central carbon and amino acid metabolism,AAP17009.1,ppsA,phosphoenolpyruvate synthase
+Central carbon and amino acid metabolism,AAP15877.1,queA,probable S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+Central carbon and amino acid metabolism,AAP15572.1,slpA,probable FKBX-type 16kD peptidyl-prolyl cis-trans isomerase (a rotamase)
+Central carbon and amino acid metabolism,AAP18706.1,thiC,thiamine biosynthesis protein%2C pyrimidine moiety
+Central carbon and amino acid metabolism,AAP18399.1,ygjG,probable ornithine aminotransferase
+Iron uptake and storage,AAP16738.1,adhE,CoA-linked acetaldehyde dehydrogenase and iron-dependent alcohol dehydrogenase%3B pyruvate-formate-lyase deactivase
+Iron uptake and storage,AAP19359.1,bfr,bacterioferrin
+Iron uptake and storage,AAP16017.1,entD,enterochelin synthetase%2C component D
+Iron uptake and storage,AAP16028.1,entE,2%2C3-dihydroxybenzoate-AMP ligase
+Iron uptake and storage,AAP16020.1,entF,ATP-dependent serine activating enzyme
+Iron uptake and storage,AAP18340.1,exbD,enterochelin transporter (uptake)
+Iron uptake and storage,AAP19291.1,feoA,ferrous iron transport protein A
+Iron uptake and storage,AAP16018.1,fepA,ferrienterobactin receptor precursor
+Iron uptake and storage,AAP16027.1,fepB,ferric enterobactin (enterochelin) binding protein
+Iron uptake and storage,AAP16023.1,fepC,ATP-binding component of ferric enterobactin transport
+Iron uptake and storage,AAP16025.1,fepD,ferric enterobactin (enterochelin) transport protein
+Iron uptake and storage,AAP16024.1,fepG,ferric enterobactin transport protein
+Iron uptake and storage,AAP16019.1,fes,enterochelin esterase
+Iron uptake and storage,AAP15686.1,fhuA,outer membrane protein receptor for ferrichrome%2C colicin M%2C and phages T1%2C T5%2C and phi80
+Iron uptake and storage,AAP19591.1,fhuF,hypothetical protein
+Iron uptake and storage,AAP17332.1,ftn,cytoplasmic ferritin
+Iron uptake and storage,AAP19034.1,iucA,siderophore biosynthesis protein
+Iron uptake and storage,AAP19033.1,iucB,siderophore biosynthesis protein
+Iron uptake and storage,AAP19032.1,iucC,siderophore biosynthesis protein
+Iron uptake and storage,AAP19031.1,iucD,lysine:N6-hydroxylase
+Iron uptake and storage,AAP19030.1,iutA,putative ferric siderophore receptor
+Iron uptake and storage,AAP17274.1,sitA,Iron transport protein
+Iron uptake and storage,AAP17275.1,sitB,Iron transport protein%2C ATP-binding component
+Iron uptake and storage,AAP17276.1,sitC,Iron transport protein
+Iron uptake and storage,AAP17277.1,sitD,Iron transport protein%2C inner membrane component
+Oxidative stress response,AAP16273.1,dps,global regulator protein Dps
+Oxidative stress response,AAP16579.1,grxB,glutaredoxin 2
+Oxidative stress response,AAP18021.1,nrdH,glutaredoxin-like protein
+Oxidative stress response,AAP17201.1,osmC,osmotically inducible protein
+Oxidative stress response,AAP19597.1,osmY,hyperosmotically inducible periplasmic protein
+Oxidative stress response,AAP17152.1,sodB,superoxide dismutase
+Oxidative stress response,AAP18635.1,soxR,redox-sensing activator of soxS
+Quorum sensing and biofilm,AAP16541.1,csgD,probable csgAB operon transcriptional regulatory protein
+Quorum sensing and biofilm,AAP16540.1,csgE,Curli production assembly/transport component CsgE precursor
+Quorum sensing and biofilm,AAP16539.1,csgF,Curli production assembly/transport component CsgF precursor
+Secretion and virulence,NP_858265.1,icsB,IcsB%2C invasion protein
+Secretion and virulence,NP_858258.1,ipaA,hypothetical protein
+Secretion and virulence,NP_858261.1,ipaB,IpaB%2C secreted by the Mxi-Spa secretion machinery%2C required for entry into epithelial cells
+Secretion and virulence,NP_858260.2,ipaC,IpaC%2C secreted by the Mxi-Spa secretion machinery%2C required for entry into epithelial cells
+Secretion and virulence,NP_858259.1,ipaD,hypothetical protein
+Secretion and virulence,NP_858211.1,ipaH7,invasion plasmid antigen
+Secretion and virulence,NP_858359.2,ipaH9,invasion plasmid antigen%2C secreted by the Mxi-Spa secretion machinery
+Secretion and virulence,AAP17259.1,ipaH_4,invasion plasmid antigen
+Secretion and virulence,AAP17392.1,ipaH_5,invasion plasmid antigen
+Secretion and virulence,NP_858270.1,mxiH,Mxi-Spa secretion machinery protein MxiH
+Secretion and virulence,NP_858271.1,mxiI,Mxi-Spa secretion machinery protein MxiI
+Secretion and virulence,NP_858273.1,mxiK,Mxi-Spa secretion machinery protein MxiK
+Secretion and virulence,NP_858275.1,mxiL,Mxi-Spa secretion machinery protein MxiL
+Secretion and virulence,NP_858274.2,mxiN,Mxi-Spa secretion machinery protein MxiN
+Secretion and virulence,NP_858136.1,ospB,OspB protein
+Secretion and virulence,YP_001449237.1,ospE1,OspE1
+Secretion and virulence,YP_001449236.1,ospE2,OspE2

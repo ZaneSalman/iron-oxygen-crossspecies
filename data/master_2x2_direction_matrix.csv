@@ -1,0 +1,8 @@
+pathway,P. aeruginosa | iron,P. aeruginosa | oxygen,S. flexneri | iron,S. flexneri | oxygen
+Iron uptake and storage,induced,unresolved,induced,repressed
+Anaerobic respiration,repressed,induced,unresolved,induced
+Oxidative stress response,repressed,mixed,induced,repressed
+Central carbon and amino acid metabolism,repressed,mixed,mixed,mixed
+Secretion and virulence,induced,repressed,induced,unresolved
+Motility,unresolved,mixed,unresolved,unresolved
+Quorum sensing and biofilm,induced,unresolved,induced,unresolved
